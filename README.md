@@ -8,7 +8,7 @@
 <!-- Social Media Accounts Ends -->
 
 
-![Barakolak's github stats](https://github-readme-stats.vercel.app/api?username=Barakolak)
+![Barakolak's github stats](https://github-readme-stats.vercel.app/api?username=colakburak)
 <br/>
 <img align="center" src="https://img.shields.io/badge/<C>-<blue>" >
 <img align="center" src="https://img.shields.io/badge/<Python>-<green>" >
