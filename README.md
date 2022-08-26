@@ -20,7 +20,7 @@
 
 ![Mando](https://i.pinimg.com/originals/63/f5/11/63f5114e1e8ffc8e73201cb7af700862.gif)
 
-
+<a href="https://app.daily.dev/barakcol"><img src="https://api.daily.dev/devcards/e7c6d18fffd949e8a035def034c35b0c.png?r=371" width="400" alt="Burak Colak's Dev Card"/></a>
 
 <!--
 **Barakolak/Barakolak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
