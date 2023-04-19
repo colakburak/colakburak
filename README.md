@@ -5,7 +5,7 @@ Born in Turkey, finished high school in the United States (PA, Pittsburgh), now 
 ## 🌟 Connect with me
 
 <!-- Social Media Accounts -->
-![Linkedin](https://www.linkedin.com/in/burakcolak/)
+[Linkedin](https://www.linkedin.com/in/burakcolak/)
 <!-- Social Media Accounts Ends -->
 
 ## 🚀 Skills
