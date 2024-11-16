@@ -16,7 +16,7 @@ Beyond my studies and work, I enjoy dealing with technology, exploring new data 
 
 - **Programming Languages**: Python, R, SQL, Bash
 - **Data Tools**: RStudio, Databricks, Snowflake, Google BigQuery
-- **Cloud Platforms**: Google Cloud Platform (GCP), Azure
+- **Cloud Platforms**: Azure, AWS, GCP
 - **DevOps & CI/CD**: Docker, Kubernetes, Azure Pipelines
 - **Data Workflow**: Apache Airflow, EFK stack
 
