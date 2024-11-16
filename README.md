@@ -1,35 +1,45 @@
-# Hello! 👋 I'm Burak
+# Hello! 👋 I'm Burak Çolak
 
-Born in Turkey, finished high school in the United States (PA, Pittsburgh), now studying Electrical Engineering at Budapest University of Technology and Economics (Hungary). Highly involved in Data Engineering, Machine Learning and Deep Learning and learning more and more everyday. Love working with Python and SQL, also familiar with C/C++ and Hardware Description Language (Verilog, VHDL). Part of BME Lacrosse team, Solar Boat Team and Students' Union. AFS-USA, KL-YES, US Department of State, Erasmus Youth-pass Alumni. 
+Welcome to my GitHub! I'm a **Data Scientist & Engineer** with a passion for applying data-driven techniques to real-world challenges. I'm currently pursuing an **MSc in Applied Data Science** at the University of Göttingen, and I used to work as a **Data Engineer at MSCI** & **Data Engineer at BlackRock**.
+
+Beyond my studies and work, I enjoy dealing with technology, exploring new data domains, and experimenting with R and Python. Here's a bit more about me:
+
+## 📚 Current Learning & Projects
+
+- Studying **High-Performance Data Analytics**
+- Deepening my skills in **Advanced Statistical Learning** and **Generalized Regression**
+- Building a **GitHub Repository for R Notebooks**:
+  - Practical examples of statistical analysis, data visualization, and machine learning
+  - Aimed at helping others in the applied data science community
+
+## 🛠️ Technologies & Tools
+
+- **Programming Languages**: Python, R, SQL, Bash
+- **Data Tools**: RStudio, Databricks, Snowflake, Google BigQuery
+- **Cloud Platforms**: Google Cloud Platform (GCP), Azure
+- **DevOps & CI/CD**: Docker, Kubernetes, Azure Pipelines
+- **Data Workflow**: Apache Airflow, EFK stack
 
 ## 🌟 Connect with me
 
-<!-- Social Media Accounts -->
-[Linkedin](https://www.linkedin.com/in/burakcolak/)
-<!-- Social Media Accounts Ends -->
+<p align="left">
+  <a href="https://www.linkedin.com/in/burakcolak/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.colakburak.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=web&logoColor=white" alt="Personal Website">
+  </a>
+</p>
 
-## 🚀 Skills
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-yellow?style=for-the-badge&logo=postgresql&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-green?style=for-the-badge&logo=arduino&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-blue?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=keras&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-red?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 ![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=colakburak&show_icons=true&theme=radical)
+
+## 🌱 I’m always looking for...
+
+- Collaborations on **open-source data science projects**
+- Opportunities to share and learn about **new data technologies**
+- Engaging with a community of data enthusiasts!
 
 ## This is the way!
 
