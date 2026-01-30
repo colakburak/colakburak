@@ -1,46 +1,87 @@
-# Hello! 👋 I'm Burak Çolak
+# Hi there 👋 I'm Burak Çolak
 
-Welcome to my GitHub! I'm a **Data Scientist & Engineer** with a passion for applying data-driven techniques to real-world challenges. I'm currently pursuing an **MSc in Applied Data Science** at the University of Göttingen, and I used to work as a **Data Engineer at MSCI** & **Data Engineer at BlackRock**.
+I’m a **Data Scientist & GenAI Engineer** working at the intersection of **statistical learning, large-scale data systems, and production GenAI**.
 
-Beyond my studies and work, I enjoy dealing with technology, exploring new data domains, and experimenting with R and Python. Here's a bit more about me:
+🎓 **MSc in Applied Data Science** & **BSc in Electrical Engineering**
+🏢 **GenAI Engineer at SAP** — *AI Core · GenAI Hub*  
+🏢 Former **Data Engineer** at **MSCI** and **BlackRock**
 
-## 📚 Current Learning & Projects
+I enjoy building **scalable, compliant, and well-engineered AI systems**, with a strong focus on applied statistics, ML infrastructure, and enterprise-grade GenAI.
 
-- Studying **High-Performance Data Analytics**
-- Deepening my skills in **Advanced Statistical Learning** and **Generalized Regression**
-- Building a **GitHub Repository for R Notebooks**:
-  - Practical examples of statistical analysis, data visualization, and machine learning
-  - Aimed at helping others in the applied data science community
+---
 
-## 🛠️ Technologies & Tools
+## 🔍 Current Focus
 
-- **Programming Languages**: Python, R, SQL, Bash
-- **Data Tools**: RStudio, Databricks, Snowflake, Google BigQuery
-- **Cloud Platforms**: Azure, AWS, GCP
-- **DevOps & CI/CD**: Docker, Kubernetes, Azure Pipelines
-- **Data Workflow**: Apache Airflow, EFK stack
+- 🤖 **GenAI Engineering at SAP**
+  - Building and integrating GenAI solutions within **SAP AI Core & GenAI Hub**
+  - Focus on production readiness, evaluation, and governance
 
-## 🌟 Connect with me
+- 📊 **High-Performance Data Analytics**
+  - Spark, distributed systems, and HPC environments
+
+- 📈 **Advanced Statistical Learning**
+  - Generalized regression, inference, and model interpretability
+
+---
+
+## 🚀 Startup Idea (In Progress)
+
+### **RAGnorakCI**
+**Compliance Agent for the dev teams**
+
+- Designed to assist teams with:
+  - **EU AI Act** alignment
+  - **GDPR-aware** data handling & documentation
+- Focus on **developer workflows** and **CI integration**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python · R · SQL · Bash
+
+**Data & Analytics**
+- RStudio · Databricks · Snowflake · BigQuery
+
+**Cloud**
+- Azure · AWS · GCP
+
+**DevOps & MLOps**
+- Docker · Kubernetes · Azure Pipelines
+
+**Orchestration & Observability**
+- Apache Airflow · EFK Stack
+
+**GenAI**
+- RAG architectures · LLM evaluation · Prompt & agent design
+
+---
+
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/burakcolak/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.colakburak.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=web&logoColor=white" alt="Personal Website">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+---
 
 ## 📈 GitHub Stats
 
 ![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=colakburak&show_icons=true&theme=radical)
 
-## 🌱 I’m always looking for...
+---
 
-- Collaborations on **open-source data science projects**
-- Opportunities to share and learn about **new data technologies**
-- Engaging with a community of data enthusiasts!
+## 🌱 Open To
 
-## This is the way!
+- 🤝 Open-source collaborations in **GenAI, ML infra, and data systems**
+- 🧠 Discussions on **AI governance, compliance, and responsible AI**
+- 🚀 Building practical tools that make **AI usable, safe, and scalable**
+
+---
+
+## This is the way.
 
 ![Mando](https://i.pinimg.com/originals/63/f5/11/63f5114e1e8ffc8e73201cb7af700862.gif)
