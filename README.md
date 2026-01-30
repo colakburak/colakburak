@@ -9,7 +9,9 @@
 I’m a **Data Scientist & GenAI Engineer** working at the intersection of **statistical learning, large-scale data systems, and production GenAI**.
 
 🎓 **MSc in Applied Data Science** & **BSc in Electrical Engineering**
-🏢 **GenAI Engineer at SAP** — *AI Core · GenAI Hub*  
+
+🏢 **GenAI Engineer at SAP** — *AI Core · GenAI Hub*
+
 🏢 Former **Data Engineer** at **MSCI** and **BlackRock**
 
 I enjoy building **scalable, compliant, and well-engineered AI systems**, with a strong focus on applied statistics, ML infrastructure, and enterprise-grade GenAI.
