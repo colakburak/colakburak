@@ -1,5 +1,11 @@
 # Hi there 👋 I'm Burak Çolak
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/burakcolak/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 I’m a **Data Scientist & GenAI Engineer** working at the intersection of **statistical learning, large-scale data systems, and production GenAI**.
 
 🎓 **MSc in Applied Data Science** & **BSc in Electrical Engineering**
@@ -21,50 +27,6 @@ I enjoy building **scalable, compliant, and well-engineered AI systems**, with a
 
 - 📈 **Advanced Statistical Learning**
   - Generalized regression, inference, and model interpretability
-
----
-
-## 🚀 Startup Idea (In Progress)
-
-### **RAGnorakCI**
-**Compliance Agent for the dev teams**
-
-- Designed to assist teams with:
-  - **EU AI Act** alignment
-  - **GDPR-aware** data handling & documentation
-- Focus on **developer workflows** and **CI integration**
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-- Python · R · SQL · Bash
-
-**Data & Analytics**
-- RStudio · Databricks · Snowflake · BigQuery
-
-**Cloud**
-- Azure · AWS · GCP
-
-**DevOps & MLOps**
-- Docker · Kubernetes · Azure Pipelines
-
-**Orchestration & Observability**
-- Apache Airflow · EFK Stack
-
-**GenAI**
-- RAG architectures · LLM evaluation · Prompt & agent design
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/burakcolak/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 ---
 
