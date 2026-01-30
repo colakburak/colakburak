@@ -70,8 +70,7 @@ I enjoy building **scalable, compliant, and well-engineered AI systems**, with a
 
 ## 📈 GitHub Stats
 
-![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=colakburak&show_icons=true&theme=radical)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/colakburak?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 ---
 
 ## 🌱 Open To
